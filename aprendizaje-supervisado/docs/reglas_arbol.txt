@@ -1,0 +1,158 @@
+REGLAS DE DECISIÓN DEL ÁRBOL - OCUPACIÓN DEL MIO
+Cada rama, leída desde la raíz hasta una hoja, es una regla
+SI <condiciones> ENTONCES <CLASE>.
+
+|--- hora_pico = si
+|   |--- tipo_estacion != intermedia
+|   |   |--- CLASE: alta
+|   |--- tipo_estacion = intermedia
+|   |   |--- clima = lluvioso
+|   |   |   |--- CLASE: alta
+|   |   |--- clima = despejado
+|   |   |   |--- evento_especial = si
+|   |   |   |   |--- CLASE: alta
+|   |   |   |--- evento_especial = no
+|   |   |   |   |--- estacion != Manzana del Saber
+|   |   |   |   |   |--- estacion != San Bosco
+|   |   |   |   |   |   |--- estacion != Salomia
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |   |--- estacion = Salomia
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |--- estacion = San Bosco
+|   |   |   |   |   |   |--- franja_horaria != tarde
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |   |--- franja_horaria = tarde
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |--- estacion = Manzana del Saber
+|   |   |   |   |   |--- franja_horaria != manana
+|   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |--- franja_horaria = manana
+|   |   |   |   |   |   |--- CLASE: alta
+|--- hora_pico = no
+|   |--- tipo_estacion != intermedia
+|   |   |--- dia_tipo != domingo_festivo
+|   |   |   |--- clima = despejado
+|   |   |   |   |--- linea != L3
+|   |   |   |   |   |--- evento_especial = no
+|   |   |   |   |   |   |--- franja_horaria != mediodia
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |   |--- franja_horaria = mediodia
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |--- evento_especial = si
+|   |   |   |   |   |   |--- franja_horaria != noche
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |   |--- franja_horaria = noche
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |--- linea = L3
+|   |   |   |   |   |--- dia_tipo != sabado
+|   |   |   |   |   |   |--- evento_especial = si
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |   |--- evento_especial = no
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |--- dia_tipo = sabado
+|   |   |   |   |   |   |--- franja_horaria != tarde
+|   |   |   |   |   |   |   |--- CLASE: baja
+|   |   |   |   |   |   |--- franja_horaria = tarde
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |--- clima = lluvioso
+|   |   |   |   |--- dia_tipo != sabado
+|   |   |   |   |   |--- franja_horaria != mediodia
+|   |   |   |   |   |   |--- linea != L3
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |   |--- linea = L3
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |--- franja_horaria = mediodia
+|   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |--- dia_tipo = sabado
+|   |   |   |   |   |--- linea != L3
+|   |   |   |   |   |   |--- linea != L2-L3
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |   |--- linea = L2-L3
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |--- linea = L3
+|   |   |   |   |   |   |--- CLASE: media
+|   |   |--- dia_tipo = domingo_festivo
+|   |   |   |--- franja_horaria != madrugada
+|   |   |   |   |--- franja_horaria != tarde
+|   |   |   |   |   |--- franja_horaria != manana
+|   |   |   |   |   |   |--- evento_especial = no
+|   |   |   |   |   |   |   |--- CLASE: baja
+|   |   |   |   |   |   |--- evento_especial = si
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |--- franja_horaria = manana
+|   |   |   |   |   |   |--- estacion != Terminal Andrés Sanín
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |   |--- estacion = Terminal Andrés Sanín
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |--- franja_horaria = tarde
+|   |   |   |   |   |--- CLASE: media
+|   |   |   |--- franja_horaria = madrugada
+|   |   |   |   |--- CLASE: baja
+|   |--- tipo_estacion = intermedia
+|   |   |--- clima = lluvioso
+|   |   |   |--- evento_especial = si
+|   |   |   |   |--- dia_tipo != sabado
+|   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |--- dia_tipo = sabado
+|   |   |   |   |   |--- franja_horaria != tarde
+|   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |--- franja_horaria = tarde
+|   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |--- evento_especial = no
+|   |   |   |   |--- dia_tipo != domingo_festivo
+|   |   |   |   |   |--- franja_horaria != madrugada
+|   |   |   |   |   |   |--- estacion != Nuevo Latir
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |   |--- estacion = Nuevo Latir
+|   |   |   |   |   |   |   |--- CLASE: alta
+|   |   |   |   |   |--- franja_horaria = madrugada
+|   |   |   |   |   |   |--- dia_tipo != laboral
+|   |   |   |   |   |   |   |--- CLASE: baja
+|   |   |   |   |   |   |--- dia_tipo = laboral
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |--- dia_tipo = domingo_festivo
+|   |   |   |   |   |--- franja_horaria != manana
+|   |   |   |   |   |   |--- franja_horaria != tarde
+|   |   |   |   |   |   |   |--- CLASE: baja
+|   |   |   |   |   |   |--- franja_horaria = tarde
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |--- franja_horaria = manana
+|   |   |   |   |   |   |--- estacion != San Pedro
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |   |--- estacion = San Pedro
+|   |   |   |   |   |   |   |--- CLASE: baja
+|   |   |--- clima = despejado
+|   |   |   |--- franja_horaria != madrugada
+|   |   |   |   |--- dia_tipo != domingo_festivo
+|   |   |   |   |   |--- franja_horaria != noche
+|   |   |   |   |   |   |--- dia_tipo != sabado
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |   |--- dia_tipo = sabado
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |--- franja_horaria = noche
+|   |   |   |   |   |   |--- dia_tipo != sabado
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |   |--- dia_tipo = sabado
+|   |   |   |   |   |   |   |--- CLASE: baja
+|   |   |   |   |--- dia_tipo = domingo_festivo
+|   |   |   |   |   |--- evento_especial = no
+|   |   |   |   |   |   |--- estacion != San Pedro
+|   |   |   |   |   |   |   |--- CLASE: baja
+|   |   |   |   |   |   |--- estacion = San Pedro
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |--- evento_especial = si
+|   |   |   |   |   |   |--- estacion != Estadio
+|   |   |   |   |   |   |   |--- CLASE: media
+|   |   |   |   |   |   |--- estacion = Estadio
+|   |   |   |   |   |   |   |--- CLASE: baja
+|   |   |   |--- franja_horaria = madrugada
+|   |   |   |   |--- dia_tipo != laboral
+|   |   |   |   |   |--- CLASE: baja
+|   |   |   |   |--- dia_tipo = laboral
+|   |   |   |   |   |--- estacion != Chiminangos
+|   |   |   |   |   |   |--- estacion != Salomia
+|   |   |   |   |   |   |   |--- CLASE: baja
+|   |   |   |   |   |   |--- estacion = Salomia
+|   |   |   |   |   |   |   |--- CLASE: baja
+|   |   |   |   |   |--- estacion = Chiminangos
+|   |   |   |   |   |   |--- CLASE: baja
