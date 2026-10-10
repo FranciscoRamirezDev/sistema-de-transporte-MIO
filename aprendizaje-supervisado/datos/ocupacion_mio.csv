@@ -1,0 +1,801 @@
+estacion,linea,tipo_estacion,dia_tipo,franja_horaria,hora_pico,clima,evento_especial,nivel_ocupacion
+Salomia,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Flora Industrial,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Terminal Aguablanca,L3,terminal,laboral,noche,no,despejado,no,media
+San Bosco,L2,intermedia,sabado,madrugada,no,lluvioso,no,baja
+Las Américas,L3,intermedia,laboral,manana,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,domingo_festivo,noche,no,despejado,si,media
+Terminal Andrés Sanín,L3,terminal,laboral,tarde,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,laboral,madrugada,no,despejado,no,media
+San Pedro,L2,intermedia,domingo_festivo,manana,no,lluvioso,no,baja
+Manzana del Saber,L1,intermedia,laboral,manana,si,despejado,no,alta
+Flora Industrial,L1,intermedia,laboral,manana,si,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,sabado,madrugada,no,despejado,si,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,madrugada,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,tarde,si,despejado,no,media
+San Bosco,L2,intermedia,sabado,tarde,no,lluvioso,no,media
+Terminal Aguablanca,L3,terminal,laboral,madrugada,no,lluvioso,no,alta
+Manzana del Saber,L1,intermedia,sabado,tarde,no,despejado,no,media
+San Bosco,L2,intermedia,domingo_festivo,madrugada,no,despejado,no,baja
+San Bosco,L2,intermedia,sabado,mediodia,no,despejado,no,baja
+San Bosco,L2,intermedia,domingo_festivo,manana,no,despejado,no,baja
+San Pedro,L2,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Terminal Aguablanca,L3,terminal,domingo_festivo,noche,no,despejado,si,media
+Terminal Guadalupe,L2,terminal,domingo_festivo,mediodia,no,despejado,no,baja
+Nuevo Latir,L3,intermedia,sabado,noche,no,lluvioso,no,baja
+Nuevo Latir,L3,intermedia,domingo_festivo,manana,no,despejado,no,baja
+Torre de Cali,L1,intermedia,sabado,tarde,no,lluvioso,no,media
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,tarde,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,madrugada,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,madrugada,no,lluvioso,si,alta
+Torre de Cali,L1,intermedia,laboral,noche,no,despejado,no,media
+Nuevo Latir,L3,intermedia,sabado,manana,no,despejado,no,media
+Chiminangos,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,manana,si,despejado,no,alta
+Flora Industrial,L1,intermedia,laboral,noche,no,despejado,no,media
+Terminal Menga,L1,terminal,domingo_festivo,manana,no,despejado,no,media
+Chiminangos,L1,intermedia,laboral,madrugada,no,lluvioso,no,media
+Terminal Andrés Sanín,L3,terminal,laboral,noche,no,despejado,no,media
+Chiminangos,L1,intermedia,laboral,noche,no,despejado,no,media
+Chiminangos,L1,intermedia,laboral,noche,no,lluvioso,no,media
+Manzana del Saber,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Salomia,L1,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Terminal Aguablanca,L3,terminal,laboral,mediodia,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,manana,si,despejado,no,alta
+Flora Industrial,L1,intermedia,laboral,noche,no,lluvioso,no,media
+Flora Industrial,L1,intermedia,laboral,noche,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,laboral,tarde,si,lluvioso,no,alta
+Terminal Aguablanca,L3,terminal,laboral,noche,no,despejado,no,media
+Salomia,L1,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Torre de Cali,L1,intermedia,sabado,manana,no,despejado,no,media
+Chiminangos,L1,intermedia,laboral,tarde,si,lluvioso,si,alta
+Unidad Deportiva,L2-L3,transbordo,sabado,mediodia,no,despejado,no,media
+Salomia,L1,intermedia,laboral,manana,si,despejado,no,media
+Popular,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Terminal Guadalupe,L2,terminal,laboral,manana,si,despejado,no,alta
+Las Américas,L3,intermedia,domingo_festivo,manana,no,lluvioso,no,media
+Manzana del Saber,L1,intermedia,domingo_festivo,madrugada,no,despejado,no,baja
+Las Américas,L3,intermedia,sabado,manana,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,tarde,si,despejado,no,alta
+Plaza de Caicedo,L1-L2,transbordo,laboral,manana,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,laboral,tarde,si,despejado,no,alta
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,madrugada,no,lluvioso,no,baja
+Chiminangos,L1,intermedia,laboral,tarde,si,despejado,no,media
+Las Américas,L3,intermedia,laboral,noche,no,despejado,no,media
+Las Américas,L3,intermedia,laboral,noche,no,despejado,no,media
+Torre de Cali,L1,intermedia,laboral,madrugada,no,lluvioso,no,baja
+Salomia,L1,intermedia,sabado,mediodia,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,laboral,mediodia,no,despejado,no,alta
+Manzana del Saber,L1,intermedia,laboral,mediodia,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,tarde,si,lluvioso,no,alta
+Torre de Cali,L1,intermedia,laboral,manana,si,despejado,no,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,manana,si,despejado,no,alta
+Plaza de Caicedo,L1-L2,transbordo,domingo_festivo,noche,no,lluvioso,si,alta
+Las Américas,L3,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Terminal Menga,L1,terminal,domingo_festivo,madrugada,no,lluvioso,no,baja
+Terminal Aguablanca,L3,terminal,laboral,noche,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,domingo_festivo,noche,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,laboral,noche,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,manana,si,lluvioso,no,alta
+Terminal Aguablanca,L3,terminal,laboral,manana,si,despejado,si,alta
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,madrugada,no,despejado,no,baja
+Popular,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+Las Américas,L3,intermedia,laboral,noche,no,lluvioso,si,alta
+Estadio,L3,intermedia,laboral,mediodia,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,mediodia,no,despejado,si,alta
+Unidad Deportiva,L2-L3,transbordo,sabado,tarde,no,lluvioso,no,alta
+Terminal Menga,L1,terminal,domingo_festivo,noche,no,despejado,si,media
+Las Américas,L3,intermedia,laboral,tarde,si,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,sabado,tarde,no,despejado,no,alta
+Las Américas,L3,intermedia,laboral,madrugada,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,sabado,madrugada,no,lluvioso,no,media
+Torre de Cali,L1,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Torre de Cali,L1,intermedia,laboral,mediodia,no,lluvioso,no,media
+Salomia,L1,intermedia,sabado,manana,no,lluvioso,no,media
+Estadio,L3,intermedia,laboral,manana,si,despejado,no,alta
+Plaza de Caicedo,L1-L2,transbordo,laboral,mediodia,no,lluvioso,no,alta
+Chiminangos,L1,intermedia,laboral,tarde,si,despejado,si,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,tarde,si,lluvioso,no,alta
+Terminal Andrés Sanín,L3,terminal,sabado,tarde,no,despejado,no,media
+San Bosco,L2,intermedia,laboral,noche,no,lluvioso,no,media
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,madrugada,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,laboral,tarde,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,sabado,mediodia,no,despejado,no,media
+San Bosco,L2,intermedia,laboral,noche,no,lluvioso,no,media
+Plaza de Caicedo,L1-L2,transbordo,sabado,tarde,no,despejado,si,alta
+San Pedro,L2,intermedia,laboral,manana,si,despejado,no,media
+Las Américas,L3,intermedia,domingo_festivo,noche,no,despejado,no,baja
+San Bosco,L2,intermedia,laboral,manana,si,despejado,no,alta
+Manzana del Saber,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Terminal Aguablanca,L3,terminal,laboral,madrugada,no,lluvioso,no,media
+Popular,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Popular,L1,intermedia,laboral,tarde,si,despejado,si,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,madrugada,no,despejado,no,media
+Salomia,L1,intermedia,sabado,tarde,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,manana,si,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,sabado,tarde,no,despejado,no,alta
+San Pedro,L2,intermedia,laboral,madrugada,no,despejado,no,baja
+Torre de Cali,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Terminal Menga,L1,terminal,laboral,noche,no,despejado,si,alta
+San Pedro,L2,intermedia,sabado,tarde,no,despejado,no,media
+Torre de Cali,L1,intermedia,laboral,noche,no,despejado,no,media
+San Bosco,L2,intermedia,sabado,madrugada,no,despejado,no,baja
+San Pedro,L2,intermedia,laboral,tarde,si,despejado,no,media
+San Bosco,L2,intermedia,laboral,tarde,si,despejado,no,alta
+San Bosco,L2,intermedia,laboral,manana,si,lluvioso,no,alta
+Terminal Menga,L1,terminal,domingo_festivo,mediodia,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,manana,no,lluvioso,no,alta
+Nuevo Latir,L3,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,laboral,tarde,si,despejado,no,alta
+Chiminangos,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Terminal Menga,L1,terminal,sabado,noche,no,despejado,si,media
+Terminal Aguablanca,L3,terminal,laboral,tarde,si,despejado,no,alta
+San Pedro,L2,intermedia,laboral,tarde,si,despejado,no,alta
+Plaza de Caicedo,L1-L2,transbordo,sabado,mediodia,no,despejado,no,alta
+Salomia,L1,intermedia,laboral,madrugada,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,mediodia,no,despejado,no,media
+Popular,L1,intermedia,laboral,noche,no,despejado,no,media
+Flora Industrial,L1,intermedia,laboral,tarde,si,despejado,no,media
+San Pedro,L2,intermedia,domingo_festivo,noche,no,lluvioso,no,baja
+Popular,L1,intermedia,laboral,tarde,si,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,manana,no,despejado,no,media
+Las Américas,L3,intermedia,laboral,tarde,si,lluvioso,no,alta
+Popular,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,tarde,no,despejado,no,media
+Popular,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Flora Industrial,L1,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Chiminangos,L1,intermedia,laboral,manana,si,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,sabado,tarde,no,lluvioso,no,alta
+Manzana del Saber,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+San Pedro,L2,intermedia,laboral,tarde,si,despejado,no,media
+Manzana del Saber,L1,intermedia,laboral,noche,no,lluvioso,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,noche,no,despejado,no,media
+Terminal Menga,L1,terminal,domingo_festivo,tarde,no,lluvioso,no,media
+Manzana del Saber,L1,intermedia,laboral,mediodia,no,lluvioso,no,alta
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,manana,no,lluvioso,no,media
+Salomia,L1,intermedia,laboral,noche,no,despejado,no,baja
+Estadio,L3,intermedia,laboral,noche,no,lluvioso,no,media
+Chiminangos,L1,intermedia,domingo_festivo,tarde,no,lluvioso,no,media
+Terminal Guadalupe,L2,terminal,laboral,manana,si,despejado,no,alta
+Popular,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Flora Industrial,L1,intermedia,domingo_festivo,mediodia,no,lluvioso,no,baja
+Popular,L1,intermedia,sabado,mediodia,no,despejado,no,baja
+Nuevo Latir,L3,intermedia,domingo_festivo,mediodia,no,lluvioso,no,baja
+Salomia,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Estadio,L3,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Terminal Menga,L1,terminal,laboral,madrugada,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,laboral,manana,si,despejado,no,alta
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,manana,no,despejado,no,media
+Las Américas,L3,intermedia,laboral,madrugada,no,lluvioso,no,media
+Nuevo Latir,L3,intermedia,laboral,manana,si,lluvioso,no,alta
+Las Américas,L3,intermedia,laboral,manana,si,lluvioso,no,alta
+Nuevo Latir,L3,intermedia,laboral,mediodia,no,despejado,no,baja
+Terminal Guadalupe,L2,terminal,laboral,mediodia,no,despejado,no,alta
+Terminal Guadalupe,L2,terminal,laboral,mediodia,no,despejado,no,alta
+Torre de Cali,L1,intermedia,laboral,noche,no,lluvioso,si,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,manana,si,lluvioso,no,alta
+Torre de Cali,L1,intermedia,sabado,manana,no,despejado,no,media
+Terminal Menga,L1,terminal,laboral,manana,si,lluvioso,no,alta
+Terminal Menga,L1,terminal,laboral,mediodia,no,lluvioso,no,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,mediodia,no,despejado,no,alta
+Nuevo Latir,L3,intermedia,laboral,mediodia,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,laboral,noche,no,despejado,no,media
+Terminal Andrés Sanín,L3,terminal,laboral,madrugada,no,despejado,no,media
+Estadio,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Popular,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,noche,no,despejado,no,media
+Salomia,L1,intermedia,domingo_festivo,noche,no,lluvioso,no,baja
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,tarde,no,despejado,no,media
+Las Américas,L3,intermedia,laboral,mediodia,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Chiminangos,L1,intermedia,laboral,noche,no,despejado,no,baja
+Las Américas,L3,intermedia,laboral,tarde,si,lluvioso,no,alta
+Terminal Guadalupe,L2,terminal,laboral,noche,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,domingo_festivo,mediodia,no,lluvioso,no,media
+Las Américas,L3,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Terminal Menga,L1,terminal,laboral,mediodia,no,despejado,no,alta
+Terminal Guadalupe,L2,terminal,laboral,manana,si,despejado,no,alta
+Popular,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,laboral,mediodia,no,lluvioso,no,media
+Flora Industrial,L1,intermedia,domingo_festivo,manana,no,despejado,no,baja
+Las Américas,L3,intermedia,laboral,tarde,si,despejado,no,media
+Terminal Aguablanca,L3,terminal,laboral,tarde,si,despejado,no,alta
+San Pedro,L2,intermedia,laboral,tarde,si,lluvioso,si,alta
+Torre de Cali,L1,intermedia,laboral,manana,si,lluvioso,no,alta
+Nuevo Latir,L3,intermedia,sabado,manana,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,mediodia,no,despejado,no,alta
+Flora Industrial,L1,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Las Américas,L3,intermedia,laboral,tarde,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,laboral,madrugada,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,laboral,mediodia,no,lluvioso,no,alta
+Salomia,L1,intermedia,laboral,manana,si,lluvioso,no,alta
+Popular,L1,intermedia,laboral,manana,si,despejado,no,alta
+Flora Industrial,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Terminal Andrés Sanín,L3,terminal,sabado,noche,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,laboral,madrugada,no,despejado,no,alta
+San Bosco,L2,intermedia,laboral,mediodia,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,madrugada,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,laboral,madrugada,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,madrugada,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,laboral,noche,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,mediodia,no,despejado,si,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,tarde,si,despejado,no,alta
+Popular,L1,intermedia,laboral,noche,no,despejado,no,baja
+Estadio,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,sabado,noche,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,manana,si,despejado,no,media
+Torre de Cali,L1,intermedia,laboral,manana,si,despejado,no,alta
+Terminal Aguablanca,L3,terminal,laboral,mediodia,no,lluvioso,no,alta
+Estadio,L3,intermedia,laboral,manana,si,lluvioso,no,alta
+Terminal Andrés Sanín,L3,terminal,laboral,mediodia,no,despejado,no,media
+Terminal Andrés Sanín,L3,terminal,laboral,tarde,si,despejado,no,alta
+Torre de Cali,L1,intermedia,laboral,noche,no,lluvioso,no,media
+San Pedro,L2,intermedia,sabado,noche,no,despejado,no,baja
+Popular,L1,intermedia,domingo_festivo,madrugada,no,despejado,no,baja
+Salomia,L1,intermedia,sabado,noche,no,lluvioso,no,baja
+Terminal Aguablanca,L3,terminal,laboral,tarde,si,despejado,no,alta
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,madrugada,no,despejado,no,baja
+Flora Industrial,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,sabado,manana,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,lluvioso,si,alta
+Torre de Cali,L1,intermedia,domingo_festivo,noche,no,lluvioso,no,baja
+Plaza de Caicedo,L1-L2,transbordo,laboral,madrugada,no,despejado,no,media
+Terminal Andrés Sanín,L3,terminal,laboral,tarde,si,despejado,si,alta
+Popular,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Las Américas,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Terminal Aguablanca,L3,terminal,laboral,tarde,si,lluvioso,si,alta
+Estadio,L3,intermedia,domingo_festivo,mediodia,no,lluvioso,no,baja
+Salomia,L1,intermedia,sabado,mediodia,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,sabado,manana,no,lluvioso,no,alta
+Manzana del Saber,L1,intermedia,sabado,madrugada,no,lluvioso,no,baja
+Chiminangos,L1,intermedia,laboral,madrugada,no,lluvioso,no,media
+Estadio,L3,intermedia,domingo_festivo,noche,no,despejado,si,baja
+Torre de Cali,L1,intermedia,laboral,madrugada,no,lluvioso,no,media
+Estadio,L3,intermedia,sabado,tarde,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,noche,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,laboral,mediodia,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,noche,no,lluvioso,no,media
+Terminal Guadalupe,L2,terminal,laboral,tarde,si,despejado,no,alta
+Chiminangos,L1,intermedia,laboral,tarde,si,despejado,no,media
+Popular,L1,intermedia,domingo_festivo,tarde,no,despejado,si,media
+Terminal Guadalupe,L2,terminal,laboral,noche,no,despejado,no,media
+Terminal Andrés Sanín,L3,terminal,sabado,noche,no,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,manana,si,lluvioso,si,alta
+Salomia,L1,intermedia,laboral,mediodia,no,lluvioso,no,alta
+San Pedro,L2,intermedia,sabado,tarde,no,despejado,no,media
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,mediodia,no,despejado,no,baja
+San Pedro,L2,intermedia,domingo_festivo,manana,no,lluvioso,no,baja
+Terminal Aguablanca,L3,terminal,laboral,manana,si,lluvioso,no,alta
+Nuevo Latir,L3,intermedia,laboral,noche,no,despejado,no,media
+Flora Industrial,L1,intermedia,laboral,tarde,si,lluvioso,no,alta
+Terminal Aguablanca,L3,terminal,laboral,tarde,si,lluvioso,si,alta
+Terminal Andrés Sanín,L3,terminal,laboral,noche,no,despejado,no,media
+Manzana del Saber,L1,intermedia,sabado,manana,no,despejado,no,media
+Popular,L1,intermedia,laboral,manana,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,domingo_festivo,noche,no,lluvioso,no,baja
+San Bosco,L2,intermedia,laboral,mediodia,no,despejado,no,media
+Manzana del Saber,L1,intermedia,laboral,noche,no,despejado,no,baja
+Chiminangos,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+San Bosco,L2,intermedia,sabado,noche,no,despejado,no,baja
+San Pedro,L2,intermedia,laboral,mediodia,no,despejado,no,media
+Estadio,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,laboral,mediodia,no,lluvioso,no,alta
+Terminal Guadalupe,L2,terminal,domingo_festivo,manana,no,lluvioso,no,media
+Salomia,L1,intermedia,laboral,manana,si,despejado,si,alta
+Estadio,L3,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,laboral,manana,si,despejado,no,alta
+Nuevo Latir,L3,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+Torre de Cali,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,lluvioso,no,media
+Estadio,L3,intermedia,laboral,tarde,si,despejado,no,media
+Terminal Guadalupe,L2,terminal,laboral,madrugada,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,laboral,mediodia,no,lluvioso,no,alta
+Chiminangos,L1,intermedia,laboral,mediodia,no,lluvioso,no,media
+Popular,L1,intermedia,laboral,noche,no,despejado,no,baja
+San Pedro,L2,intermedia,laboral,noche,no,lluvioso,no,media
+San Pedro,L2,intermedia,laboral,madrugada,no,despejado,no,baja
+Terminal Menga,L1,terminal,laboral,mediodia,no,lluvioso,no,alta
+Plaza de Caicedo,L1-L2,transbordo,sabado,noche,no,despejado,no,media
+Estadio,L3,intermedia,laboral,manana,si,despejado,no,media
+Salomia,L1,intermedia,laboral,tarde,si,despejado,no,media
+Nuevo Latir,L3,intermedia,domingo_festivo,madrugada,no,lluvioso,no,baja
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,tarde,no,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,mediodia,no,despejado,no,alta
+Plaza de Caicedo,L1-L2,transbordo,laboral,mediodia,no,despejado,no,alta
+Torre de Cali,L1,intermedia,sabado,tarde,no,despejado,no,media
+San Bosco,L2,intermedia,laboral,noche,no,despejado,no,media
+Popular,L1,intermedia,laboral,mediodia,no,lluvioso,si,alta
+Terminal Andrés Sanín,L3,terminal,sabado,tarde,no,despejado,no,media
+San Bosco,L2,intermedia,laboral,noche,no,lluvioso,no,media
+Chiminangos,L1,intermedia,sabado,noche,no,despejado,no,baja
+Nuevo Latir,L3,intermedia,laboral,manana,si,despejado,no,alta
+Manzana del Saber,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Chiminangos,L1,intermedia,domingo_festivo,madrugada,no,despejado,no,baja
+Chiminangos,L1,intermedia,domingo_festivo,manana,no,despejado,no,baja
+Estadio,L3,intermedia,sabado,manana,no,lluvioso,no,media
+San Pedro,L2,intermedia,domingo_festivo,madrugada,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,noche,no,despejado,no,baja
+Popular,L1,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+San Bosco,L2,intermedia,sabado,madrugada,no,lluvioso,no,baja
+Torre de Cali,L1,intermedia,laboral,tarde,si,lluvioso,no,alta
+Manzana del Saber,L1,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+San Bosco,L2,intermedia,laboral,tarde,si,lluvioso,no,alta
+Terminal Menga,L1,terminal,laboral,mediodia,no,despejado,si,alta
+Salomia,L1,intermedia,laboral,manana,si,despejado,no,alta
+San Pedro,L2,intermedia,sabado,mediodia,no,despejado,no,baja
+Popular,L1,intermedia,laboral,tarde,si,lluvioso,no,alta
+Nuevo Latir,L3,intermedia,sabado,manana,no,lluvioso,no,media
+Flora Industrial,L1,intermedia,laboral,noche,no,lluvioso,si,alta
+Terminal Aguablanca,L3,terminal,laboral,noche,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,laboral,manana,si,lluvioso,no,alta
+Chiminangos,L1,intermedia,laboral,noche,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,sabado,mediodia,no,lluvioso,no,media
+Flora Industrial,L1,intermedia,laboral,mediodia,no,lluvioso,no,media
+Chiminangos,L1,intermedia,domingo_festivo,madrugada,no,lluvioso,no,baja
+Popular,L1,intermedia,sabado,tarde,no,despejado,no,media
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,tarde,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,laboral,noche,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,domingo_festivo,madrugada,no,lluvioso,no,baja
+Estadio,L3,intermedia,sabado,manana,no,despejado,no,media
+Torre de Cali,L1,intermedia,domingo_festivo,madrugada,no,despejado,no,baja
+Terminal Menga,L1,terminal,laboral,madrugada,no,despejado,si,alta
+Chiminangos,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Chiminangos,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,mediodia,no,despejado,no,alta
+Las Américas,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,laboral,tarde,si,despejado,si,alta
+Estadio,L3,intermedia,sabado,mediodia,no,despejado,no,baja
+San Pedro,L2,intermedia,laboral,noche,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,noche,no,despejado,no,baja
+Terminal Aguablanca,L3,terminal,laboral,manana,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,laboral,manana,si,despejado,no,alta
+Chiminangos,L1,intermedia,domingo_festivo,manana,no,lluvioso,no,media
+Torre de Cali,L1,intermedia,domingo_festivo,mediodia,no,despejado,no,baja
+Torre de Cali,L1,intermedia,domingo_festivo,madrugada,no,lluvioso,no,baja
+Torre de Cali,L1,intermedia,laboral,manana,si,despejado,no,media
+Estadio,L3,intermedia,laboral,mediodia,no,despejado,no,media
+Nuevo Latir,L3,intermedia,sabado,mediodia,no,lluvioso,no,baja
+Las Américas,L3,intermedia,laboral,manana,si,lluvioso,si,alta
+Las Américas,L3,intermedia,laboral,manana,si,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,mediodia,no,despejado,no,alta
+Nuevo Latir,L3,intermedia,laboral,mediodia,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,noche,no,lluvioso,no,media
+Flora Industrial,L1,intermedia,domingo_festivo,madrugada,no,lluvioso,no,baja
+Plaza de Caicedo,L1-L2,transbordo,laboral,manana,si,despejado,no,alta
+Nuevo Latir,L3,intermedia,sabado,madrugada,no,despejado,no,baja
+Terminal Menga,L1,terminal,laboral,mediodia,no,despejado,no,media
+Las Américas,L3,intermedia,sabado,manana,no,despejado,no,media
+Popular,L1,intermedia,laboral,noche,no,despejado,no,baja
+Terminal Guadalupe,L2,terminal,domingo_festivo,tarde,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,madrugada,no,despejado,no,media
+Estadio,L3,intermedia,laboral,tarde,si,despejado,si,alta
+Manzana del Saber,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Terminal Aguablanca,L3,terminal,domingo_festivo,manana,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,domingo_festivo,mediodia,no,despejado,no,baja
+Popular,L1,intermedia,sabado,tarde,no,lluvioso,no,media
+Estadio,L3,intermedia,sabado,noche,no,despejado,no,baja
+Popular,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+Flora Industrial,L1,intermedia,laboral,noche,no,lluvioso,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,mediodia,no,lluvioso,no,alta
+Estadio,L3,intermedia,laboral,noche,no,despejado,no,media
+San Pedro,L2,intermedia,sabado,madrugada,no,despejado,no,baja
+Estadio,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,laboral,mediodia,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,laboral,madrugada,no,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,madrugada,no,despejado,no,baja
+Plaza de Caicedo,L1-L2,transbordo,laboral,manana,si,despejado,no,alta
+San Bosco,L2,intermedia,laboral,tarde,si,despejado,no,media
+Flora Industrial,L1,intermedia,laboral,manana,si,lluvioso,no,alta
+Torre de Cali,L1,intermedia,laboral,manana,si,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,tarde,si,lluvioso,no,alta
+Popular,L1,intermedia,laboral,noche,no,lluvioso,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,tarde,si,lluvioso,no,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,tarde,si,despejado,no,alta
+Manzana del Saber,L1,intermedia,sabado,noche,no,despejado,no,baja
+Torre de Cali,L1,intermedia,laboral,mediodia,no,lluvioso,si,alta
+Nuevo Latir,L3,intermedia,laboral,mediodia,no,despejado,no,media
+Las Américas,L3,intermedia,sabado,madrugada,no,despejado,no,baja
+Las Américas,L3,intermedia,laboral,mediodia,no,lluvioso,no,media
+Flora Industrial,L1,intermedia,laboral,manana,si,despejado,no,media
+Estadio,L3,intermedia,domingo_festivo,mediodia,no,lluvioso,no,baja
+Terminal Menga,L1,terminal,laboral,manana,si,despejado,no,alta
+Terminal Andrés Sanín,L3,terminal,laboral,tarde,si,lluvioso,no,alta
+Terminal Aguablanca,L3,terminal,laboral,madrugada,no,despejado,no,media
+Popular,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Manzana del Saber,L1,intermedia,domingo_festivo,manana,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,laboral,tarde,si,despejado,no,alta
+Las Américas,L3,intermedia,laboral,noche,no,lluvioso,no,media
+Torre de Cali,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,laboral,manana,si,despejado,no,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,noche,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,domingo_festivo,noche,no,despejado,no,baja
+Flora Industrial,L1,intermedia,sabado,mediodia,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,laboral,manana,si,despejado,no,alta
+Manzana del Saber,L1,intermedia,laboral,noche,no,despejado,no,media
+Manzana del Saber,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,domingo_festivo,tarde,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,sabado,tarde,no,despejado,no,alta
+Flora Industrial,L1,intermedia,laboral,manana,si,despejado,no,media
+San Pedro,L2,intermedia,laboral,tarde,si,despejado,no,media
+Salomia,L1,intermedia,laboral,noche,no,lluvioso,no,media
+Chiminangos,L1,intermedia,sabado,tarde,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,madrugada,no,despejado,no,media
+Flora Industrial,L1,intermedia,laboral,madrugada,no,lluvioso,no,media
+Terminal Guadalupe,L2,terminal,domingo_festivo,noche,no,despejado,no,baja
+Popular,L1,intermedia,sabado,manana,no,lluvioso,no,media
+Manzana del Saber,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,domingo_festivo,madrugada,no,despejado,no,baja
+San Bosco,L2,intermedia,domingo_festivo,manana,no,lluvioso,no,media
+Popular,L1,intermedia,sabado,manana,no,lluvioso,no,media
+San Bosco,L2,intermedia,laboral,tarde,si,despejado,no,alta
+Flora Industrial,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Terminal Menga,L1,terminal,domingo_festivo,madrugada,no,lluvioso,no,baja
+Terminal Guadalupe,L2,terminal,domingo_festivo,noche,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,sabado,mediodia,no,despejado,no,media
+Nuevo Latir,L3,intermedia,sabado,madrugada,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,laboral,madrugada,no,lluvioso,no,media
+Popular,L1,intermedia,domingo_festivo,mediodia,no,despejado,no,baja
+San Bosco,L2,intermedia,laboral,manana,si,despejado,no,alta
+Plaza de Caicedo,L1-L2,transbordo,laboral,madrugada,no,lluvioso,si,alta
+Plaza de Caicedo,L1-L2,transbordo,laboral,tarde,si,despejado,no,alta
+Salomia,L1,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,mediodia,no,lluvioso,no,media
+Popular,L1,intermedia,laboral,manana,si,despejado,no,media
+Terminal Guadalupe,L2,terminal,sabado,manana,no,lluvioso,no,alta
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,madrugada,no,lluvioso,no,baja
+Terminal Guadalupe,L2,terminal,domingo_festivo,mediodia,no,lluvioso,no,media
+Flora Industrial,L1,intermedia,laboral,noche,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,noche,no,despejado,no,baja
+San Pedro,L2,intermedia,laboral,manana,si,despejado,no,media
+Terminal Aguablanca,L3,terminal,domingo_festivo,madrugada,no,lluvioso,no,baja
+Popular,L1,intermedia,laboral,noche,no,despejado,no,media
+Flora Industrial,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Chiminangos,L1,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+Estadio,L3,intermedia,laboral,noche,no,despejado,no,baja
+Flora Industrial,L1,intermedia,laboral,noche,no,lluvioso,no,media
+Flora Industrial,L1,intermedia,laboral,tarde,si,lluvioso,no,alta
+Chiminangos,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Manzana del Saber,L1,intermedia,laboral,manana,si,lluvioso,no,alta
+Terminal Guadalupe,L2,terminal,laboral,mediodia,no,despejado,no,alta
+Salomia,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+Terminal Aguablanca,L3,terminal,laboral,noche,no,despejado,no,media
+Manzana del Saber,L1,intermedia,laboral,mediodia,no,lluvioso,no,media
+Salomia,L1,intermedia,laboral,noche,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,laboral,manana,si,despejado,no,alta
+Chiminangos,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Flora Industrial,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,laboral,noche,no,lluvioso,no,media
+San Pedro,L2,intermedia,sabado,mediodia,no,despejado,no,baja
+Terminal Menga,L1,terminal,laboral,mediodia,no,despejado,no,media
+Nuevo Latir,L3,intermedia,domingo_festivo,manana,no,lluvioso,no,baja
+Plaza de Caicedo,L1-L2,transbordo,laboral,tarde,si,despejado,no,alta
+Terminal Menga,L1,terminal,domingo_festivo,madrugada,no,lluvioso,no,baja
+San Pedro,L2,intermedia,laboral,noche,no,lluvioso,no,media
+Popular,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+Terminal Aguablanca,L3,terminal,laboral,mediodia,no,despejado,no,media
+Estadio,L3,intermedia,laboral,noche,no,despejado,no,baja
+Popular,L1,intermedia,laboral,mediodia,no,lluvioso,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,mediodia,no,despejado,no,alta
+Popular,L1,intermedia,sabado,noche,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,manana,si,despejado,no,alta
+Salomia,L1,intermedia,laboral,mediodia,no,lluvioso,no,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,manana,si,lluvioso,no,alta
+Chiminangos,L1,intermedia,sabado,mediodia,no,lluvioso,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,madrugada,no,lluvioso,no,alta
+Terminal Menga,L1,terminal,laboral,manana,si,despejado,no,alta
+Flora Industrial,L1,intermedia,laboral,mediodia,no,lluvioso,si,alta
+Flora Industrial,L1,intermedia,laboral,tarde,si,lluvioso,no,alta
+Salomia,L1,intermedia,laboral,tarde,si,despejado,no,media
+Las Américas,L3,intermedia,sabado,tarde,no,despejado,no,media
+Manzana del Saber,L1,intermedia,laboral,tarde,si,lluvioso,si,alta
+Plaza de Caicedo,L1-L2,transbordo,laboral,tarde,si,despejado,no,alta
+Popular,L1,intermedia,laboral,noche,no,despejado,no,media
+Terminal Menga,L1,terminal,domingo_festivo,mediodia,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,laboral,manana,si,despejado,no,alta
+Terminal Menga,L1,terminal,domingo_festivo,mediodia,no,despejado,no,baja
+Plaza de Caicedo,L1-L2,transbordo,domingo_festivo,madrugada,no,despejado,no,baja
+Chiminangos,L1,intermedia,sabado,manana,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,laboral,noche,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,domingo_festivo,madrugada,no,lluvioso,no,baja
+Torre de Cali,L1,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+Chiminangos,L1,intermedia,laboral,manana,si,despejado,si,alta
+Torre de Cali,L1,intermedia,sabado,mediodia,no,lluvioso,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,manana,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,domingo_festivo,mediodia,no,lluvioso,no,baja
+Salomia,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,manana,si,lluvioso,no,alta
+Terminal Guadalupe,L2,terminal,laboral,noche,no,lluvioso,no,alta
+Manzana del Saber,L1,intermedia,sabado,noche,no,despejado,no,baja
+Chiminangos,L1,intermedia,laboral,mediodia,no,lluvioso,no,media
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,laboral,madrugada,no,lluvioso,no,media
+Terminal Menga,L1,terminal,laboral,manana,si,despejado,no,alta
+Salomia,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+Nuevo Latir,L3,intermedia,domingo_festivo,mediodia,no,despejado,no,baja
+Nuevo Latir,L3,intermedia,sabado,noche,no,despejado,no,baja
+Chiminangos,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,tarde,si,despejado,si,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,noche,no,lluvioso,no,alta
+Las Américas,L3,intermedia,domingo_festivo,manana,no,despejado,no,baja
+Torre de Cali,L1,intermedia,laboral,noche,no,lluvioso,no,media
+San Bosco,L2,intermedia,sabado,mediodia,no,despejado,si,media
+Popular,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,tarde,si,despejado,no,media
+San Bosco,L2,intermedia,laboral,noche,no,despejado,no,baja
+Chiminangos,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Chiminangos,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Plaza de Caicedo,L1-L2,transbordo,laboral,tarde,si,lluvioso,no,alta
+Nuevo Latir,L3,intermedia,laboral,manana,si,despejado,si,alta
+Terminal Aguablanca,L3,terminal,laboral,noche,no,lluvioso,no,media
+Popular,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Popular,L1,intermedia,laboral,madrugada,no,lluvioso,no,media
+Popular,L1,intermedia,domingo_festivo,mediodia,no,despejado,no,baja
+Estadio,L3,intermedia,laboral,mediodia,no,despejado,no,media
+Terminal Menga,L1,terminal,sabado,noche,no,despejado,no,media
+Salomia,L1,intermedia,domingo_festivo,noche,no,lluvioso,no,baja
+Terminal Guadalupe,L2,terminal,domingo_festivo,mediodia,no,despejado,no,baja
+San Bosco,L2,intermedia,laboral,noche,no,despejado,no,baja
+Chiminangos,L1,intermedia,laboral,mediodia,no,despejado,si,alta
+Terminal Guadalupe,L2,terminal,laboral,mediodia,no,despejado,no,alta
+Salomia,L1,intermedia,domingo_festivo,manana,no,despejado,no,baja
+San Bosco,L2,intermedia,sabado,noche,no,despejado,no,baja
+Torre de Cali,L1,intermedia,domingo_festivo,tarde,no,lluvioso,no,media
+Terminal Aguablanca,L3,terminal,sabado,madrugada,no,despejado,no,baja
+Popular,L1,intermedia,sabado,noche,no,lluvioso,si,media
+Chiminangos,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Torre de Cali,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,laboral,tarde,si,despejado,no,alta
+Terminal Guadalupe,L2,terminal,laboral,mediodia,no,lluvioso,no,alta
+Manzana del Saber,L1,intermedia,domingo_festivo,manana,no,lluvioso,no,media
+Torre de Cali,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Nuevo Latir,L3,intermedia,domingo_festivo,manana,no,despejado,si,media
+San Bosco,L2,intermedia,laboral,mediodia,no,lluvioso,no,media
+Terminal Guadalupe,L2,terminal,laboral,manana,si,despejado,no,alta
+Estadio,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+San Pedro,L2,intermedia,laboral,madrugada,no,despejado,no,baja
+San Bosco,L2,intermedia,laboral,mediodia,no,despejado,no,media
+Popular,L1,intermedia,laboral,manana,si,lluvioso,no,alta
+Estadio,L3,intermedia,sabado,manana,no,lluvioso,no,media
+Las Américas,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Torre de Cali,L1,intermedia,laboral,manana,si,despejado,no,media
+Terminal Guadalupe,L2,terminal,laboral,manana,si,lluvioso,no,alta
+Manzana del Saber,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Manzana del Saber,L1,intermedia,domingo_festivo,mediodia,no,despejado,no,baja
+Plaza de Caicedo,L1-L2,transbordo,sabado,mediodia,no,despejado,no,media
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,tarde,no,despejado,no,media
+Flora Industrial,L1,intermedia,laboral,manana,si,despejado,no,media
+Chiminangos,L1,intermedia,domingo_festivo,manana,no,despejado,no,baja
+Las Américas,L3,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,laboral,manana,si,despejado,si,alta
+Terminal Andrés Sanín,L3,terminal,laboral,manana,si,despejado,no,alta
+Popular,L1,intermedia,laboral,tarde,si,despejado,no,media
+Estadio,L3,intermedia,laboral,noche,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,laboral,madrugada,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,laboral,madrugada,no,despejado,no,media
+San Pedro,L2,intermedia,domingo_festivo,tarde,no,lluvioso,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,manana,si,despejado,no,alta
+Estadio,L3,intermedia,laboral,manana,si,lluvioso,no,alta
+Terminal Menga,L1,terminal,laboral,manana,si,despejado,no,alta
+San Bosco,L2,intermedia,sabado,noche,no,despejado,no,baja
+Salomia,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+San Bosco,L2,intermedia,laboral,manana,si,despejado,no,alta
+Terminal Menga,L1,terminal,laboral,madrugada,no,despejado,no,media
+Salomia,L1,intermedia,laboral,noche,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,noche,no,despejado,no,baja
+Las Américas,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,despejado,no,baja
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,lluvioso,si,alta
+Salomia,L1,intermedia,domingo_festivo,manana,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,domingo_festivo,mediodia,no,despejado,no,baja
+Las Américas,L3,intermedia,sabado,madrugada,no,lluvioso,no,baja
+Manzana del Saber,L1,intermedia,laboral,tarde,si,lluvioso,no,alta
+Flora Industrial,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Estadio,L3,intermedia,sabado,tarde,no,lluvioso,no,media
+Manzana del Saber,L1,intermedia,laboral,madrugada,no,lluvioso,no,media
+Nuevo Latir,L3,intermedia,sabado,tarde,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,laboral,manana,si,despejado,no,alta
+Flora Industrial,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,sabado,noche,no,lluvioso,no,media
+Terminal Aguablanca,L3,terminal,laboral,noche,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,tarde,si,despejado,no,alta
+Terminal Menga,L1,terminal,laboral,manana,si,despejado,no,alta
+Nuevo Latir,L3,intermedia,domingo_festivo,madrugada,no,lluvioso,no,baja
+Terminal Aguablanca,L3,terminal,laboral,tarde,si,despejado,no,alta
+Terminal Andrés Sanín,L3,terminal,laboral,noche,no,despejado,no,media
+Nuevo Latir,L3,intermedia,sabado,madrugada,no,despejado,no,baja
+Terminal Menga,L1,terminal,sabado,noche,no,lluvioso,no,media
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,mediodia,no,lluvioso,no,baja
+Terminal Andrés Sanín,L3,terminal,laboral,noche,no,despejado,no,media
+Salomia,L1,intermedia,sabado,manana,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,mediodia,no,lluvioso,si,alta
+Las Américas,L3,intermedia,laboral,noche,no,despejado,no,media
+Estadio,L3,intermedia,laboral,manana,si,lluvioso,no,alta
+Salomia,L1,intermedia,sabado,tarde,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,laboral,tarde,si,despejado,no,alta
+Nuevo Latir,L3,intermedia,domingo_festivo,manana,no,despejado,no,baja
+Popular,L1,intermedia,laboral,noche,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,laboral,mediodia,no,lluvioso,no,alta
+Popular,L1,intermedia,laboral,noche,no,lluvioso,no,media
+Unidad Deportiva,L2-L3,transbordo,sabado,noche,no,despejado,no,media
+San Pedro,L2,intermedia,sabado,manana,no,lluvioso,no,alta
+Unidad Deportiva,L2-L3,transbordo,sabado,mediodia,no,despejado,no,media
+Las Américas,L3,intermedia,sabado,noche,no,despejado,no,baja
+Terminal Menga,L1,terminal,laboral,madrugada,no,despejado,no,media
+Manzana del Saber,L1,intermedia,domingo_festivo,mediodia,no,despejado,si,media
+Chiminangos,L1,intermedia,laboral,tarde,si,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,sabado,noche,no,despejado,no,media
+Chiminangos,L1,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,madrugada,no,despejado,no,baja
+Terminal Andrés Sanín,L3,terminal,sabado,mediodia,no,lluvioso,no,media
+Torre de Cali,L1,intermedia,sabado,manana,no,despejado,no,media
+Manzana del Saber,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+San Bosco,L2,intermedia,laboral,noche,no,lluvioso,si,alta
+Chiminangos,L1,intermedia,laboral,mediodia,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,noche,no,despejado,si,media
+Manzana del Saber,L1,intermedia,laboral,noche,no,despejado,no,baja
+Estadio,L3,intermedia,laboral,manana,si,lluvioso,no,alta
+Terminal Aguablanca,L3,terminal,laboral,noche,no,lluvioso,no,alta
+Terminal Menga,L1,terminal,laboral,mediodia,no,despejado,no,media
+Chiminangos,L1,intermedia,sabado,mediodia,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,noche,no,lluvioso,si,alta
+Terminal Aguablanca,L3,terminal,sabado,tarde,no,despejado,no,media
+Torre de Cali,L1,intermedia,laboral,madrugada,no,lluvioso,no,media
+Terminal Menga,L1,terminal,laboral,manana,si,despejado,no,alta
+Las Américas,L3,intermedia,domingo_festivo,manana,no,despejado,no,media
+Flora Industrial,L1,intermedia,sabado,manana,no,despejado,no,media
+Chiminangos,L1,intermedia,laboral,madrugada,no,despejado,no,media
+San Bosco,L2,intermedia,laboral,tarde,si,despejado,no,alta
+Terminal Menga,L1,terminal,laboral,madrugada,no,despejado,no,media
+Chiminangos,L1,intermedia,sabado,madrugada,no,despejado,no,baja
+San Pedro,L2,intermedia,sabado,mediodia,no,despejado,no,baja
+Terminal Menga,L1,terminal,laboral,noche,no,despejado,no,media
+San Pedro,L2,intermedia,domingo_festivo,manana,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,domingo_festivo,madrugada,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,noche,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,laboral,noche,no,despejado,no,media
+San Bosco,L2,intermedia,laboral,manana,si,despejado,no,alta
+Terminal Andrés Sanín,L3,terminal,laboral,madrugada,no,despejado,si,alta
+Salomia,L1,intermedia,laboral,noche,no,despejado,no,media
+Salomia,L1,intermedia,laboral,madrugada,no,lluvioso,no,media
+Terminal Andrés Sanín,L3,terminal,laboral,mediodia,no,despejado,no,media
+Las Américas,L3,intermedia,laboral,mediodia,no,despejado,no,media
+Las Américas,L3,intermedia,laboral,mediodia,no,despejado,no,media
+Terminal Guadalupe,L2,terminal,sabado,tarde,no,despejado,no,media
+Flora Industrial,L1,intermedia,domingo_festivo,manana,no,lluvioso,no,media
+Flora Industrial,L1,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Estadio,L3,intermedia,sabado,manana,no,lluvioso,no,media
+Nuevo Latir,L3,intermedia,sabado,manana,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,noche,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,sabado,manana,no,despejado,no,media
+Popular,L1,intermedia,sabado,tarde,no,lluvioso,si,alta
+San Bosco,L2,intermedia,laboral,madrugada,no,despejado,no,baja
+Terminal Guadalupe,L2,terminal,laboral,tarde,si,lluvioso,si,alta
+Terminal Aguablanca,L3,terminal,laboral,mediodia,no,lluvioso,no,alta
+Manzana del Saber,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Estadio,L3,intermedia,domingo_festivo,manana,no,despejado,no,baja
+Terminal Guadalupe,L2,terminal,laboral,tarde,si,lluvioso,si,alta
+Plaza de Caicedo,L1-L2,transbordo,laboral,mediodia,no,despejado,no,alta
+Terminal Guadalupe,L2,terminal,laboral,madrugada,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,noche,no,despejado,no,media
+Terminal Menga,L1,terminal,laboral,manana,si,despejado,no,alta
+Popular,L1,intermedia,laboral,mediodia,no,lluvioso,no,media
+Estadio,L3,intermedia,laboral,noche,no,despejado,no,baja
+Flora Industrial,L1,intermedia,laboral,noche,no,lluvioso,no,media
+Manzana del Saber,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Terminal Aguablanca,L3,terminal,laboral,mediodia,no,lluvioso,no,alta
+Flora Industrial,L1,intermedia,laboral,tarde,si,despejado,si,alta
+Las Américas,L3,intermedia,sabado,noche,no,despejado,no,baja
+Chiminangos,L1,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Terminal Menga,L1,terminal,domingo_festivo,tarde,no,despejado,no,media
+Chiminangos,L1,intermedia,sabado,tarde,no,despejado,no,media
+Salomia,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Flora Industrial,L1,intermedia,laboral,noche,no,despejado,no,baja
+Terminal Aguablanca,L3,terminal,laboral,madrugada,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,laboral,madrugada,no,despejado,no,media
+Las Américas,L3,intermedia,laboral,noche,no,despejado,no,media
+Torre de Cali,L1,intermedia,laboral,noche,no,despejado,no,baja
+San Pedro,L2,intermedia,laboral,tarde,si,lluvioso,no,alta
+Salomia,L1,intermedia,sabado,tarde,no,lluvioso,no,media
+Unidad Deportiva,L2-L3,transbordo,sabado,noche,no,despejado,no,media
+Manzana del Saber,L1,intermedia,laboral,madrugada,no,lluvioso,no,baja
+Flora Industrial,L1,intermedia,laboral,manana,si,despejado,no,alta
+Estadio,L3,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+Manzana del Saber,L1,intermedia,laboral,tarde,si,despejado,no,media
+Terminal Aguablanca,L3,terminal,laboral,madrugada,no,lluvioso,no,media
+Chiminangos,L1,intermedia,laboral,madrugada,no,lluvioso,no,baja
+San Bosco,L2,intermedia,sabado,mediodia,no,despejado,no,baja
+Flora Industrial,L1,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Terminal Guadalupe,L2,terminal,laboral,mediodia,no,despejado,no,media
+Terminal Menga,L1,terminal,laboral,tarde,si,despejado,no,alta
+Terminal Aguablanca,L3,terminal,laboral,madrugada,no,lluvioso,no,alta
+San Bosco,L2,intermedia,sabado,tarde,no,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,tarde,no,despejado,no,media
+San Bosco,L2,intermedia,laboral,manana,si,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,laboral,mediodia,no,despejado,si,alta
+Flora Industrial,L1,intermedia,laboral,mediodia,no,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,manana,si,lluvioso,no,alta
+Torre de Cali,L1,intermedia,laboral,manana,si,despejado,no,media
+San Bosco,L2,intermedia,laboral,manana,si,lluvioso,no,alta
+Salomia,L1,intermedia,domingo_festivo,tarde,no,despejado,no,baja
+Chiminangos,L1,intermedia,domingo_festivo,mediodia,no,despejado,no,baja
+San Bosco,L2,intermedia,laboral,noche,no,despejado,no,baja
+Popular,L1,intermedia,laboral,tarde,si,despejado,no,media
+Manzana del Saber,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Terminal Menga,L1,terminal,laboral,manana,si,despejado,no,alta
+Manzana del Saber,L1,intermedia,laboral,manana,si,despejado,no,alta
+Unidad Deportiva,L2-L3,transbordo,laboral,tarde,si,despejado,no,alta
+Estadio,L3,intermedia,laboral,manana,si,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,sabado,mediodia,no,lluvioso,no,alta
+Popular,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Terminal Aguablanca,L3,terminal,laboral,mediodia,no,lluvioso,no,alta
+Estadio,L3,intermedia,laboral,manana,si,despejado,no,media
+Nuevo Latir,L3,intermedia,domingo_festivo,madrugada,no,despejado,no,baja
+San Bosco,L2,intermedia,laboral,tarde,si,despejado,no,alta
+Torre de Cali,L1,intermedia,laboral,noche,no,despejado,no,baja
+Nuevo Latir,L3,intermedia,sabado,tarde,no,lluvioso,no,alta
+San Pedro,L2,intermedia,laboral,manana,si,lluvioso,no,alta
+Estadio,L3,intermedia,domingo_festivo,madrugada,no,despejado,no,baja
+Unidad Deportiva,L2-L3,transbordo,laboral,mediodia,no,lluvioso,no,alta
+Terminal Guadalupe,L2,terminal,sabado,noche,no,lluvioso,no,media
+Manzana del Saber,L1,intermedia,domingo_festivo,manana,no,lluvioso,no,media
+Flora Industrial,L1,intermedia,laboral,tarde,si,despejado,si,alta
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,lluvioso,no,media
+Popular,L1,intermedia,laboral,tarde,si,despejado,no,media
+San Pedro,L2,intermedia,laboral,manana,si,despejado,no,alta
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,tarde,no,lluvioso,no,alta
+San Bosco,L2,intermedia,laboral,manana,si,lluvioso,no,alta
+Las Américas,L3,intermedia,laboral,noche,no,despejado,no,media
+Plaza de Caicedo,L1-L2,transbordo,sabado,tarde,no,despejado,no,alta
+Terminal Aguablanca,L3,terminal,sabado,manana,no,despejado,no,alta
+Terminal Menga,L1,terminal,sabado,tarde,no,lluvioso,no,alta
+San Pedro,L2,intermedia,laboral,madrugada,no,despejado,no,baja
+Las Américas,L3,intermedia,laboral,manana,si,lluvioso,no,alta
+Flora Industrial,L1,intermedia,laboral,manana,si,despejado,no,media
+San Bosco,L2,intermedia,laboral,noche,no,lluvioso,no,media
+San Pedro,L2,intermedia,laboral,tarde,si,despejado,no,media
+Nuevo Latir,L3,intermedia,laboral,madrugada,no,despejado,no,media
+San Pedro,L2,intermedia,laboral,tarde,si,lluvioso,no,alta
+Popular,L1,intermedia,laboral,manana,si,despejado,no,alta
+Terminal Andrés Sanín,L3,terminal,sabado,madrugada,no,despejado,no,baja
+Popular,L1,intermedia,laboral,tarde,si,despejado,no,alta
+Estadio,L3,intermedia,sabado,madrugada,no,lluvioso,no,baja
+Estadio,L3,intermedia,sabado,tarde,no,despejado,no,media
+Salomia,L1,intermedia,laboral,manana,si,despejado,no,alta
+San Pedro,L2,intermedia,domingo_festivo,manana,no,despejado,si,media
+San Bosco,L2,intermedia,laboral,mediodia,no,despejado,no,media
+Torre de Cali,L1,intermedia,domingo_festivo,manana,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,manana,si,despejado,si,alta
+Nuevo Latir,L3,intermedia,sabado,manana,no,despejado,no,media
+Unidad Deportiva,L2-L3,transbordo,domingo_festivo,madrugada,no,despejado,no,baja
+Salomia,L1,intermedia,laboral,manana,si,despejado,no,media
+Terminal Andrés Sanín,L3,terminal,sabado,madrugada,no,despejado,no,baja
+Popular,L1,intermedia,laboral,madrugada,no,despejado,no,baja
+Torre de Cali,L1,intermedia,laboral,noche,no,despejado,no,media
+San Bosco,L2,intermedia,domingo_festivo,noche,no,lluvioso,no,baja
+San Pedro,L2,intermedia,sabado,noche,no,despejado,si,media
+Terminal Aguablanca,L3,terminal,laboral,manana,si,lluvioso,no,alta
+Unidad Deportiva,L2-L3,transbordo,sabado,noche,no,lluvioso,no,alta
+Nuevo Latir,L3,intermedia,sabado,manana,no,despejado,no,media
+Terminal Aguablanca,L3,terminal,sabado,madrugada,no,lluvioso,no,media
+Chiminangos,L1,intermedia,laboral,tarde,si,despejado,si,alta
+Nuevo Latir,L3,intermedia,laboral,noche,no,despejado,no,baja
+Flora Industrial,L1,intermedia,laboral,manana,si,despejado,no,alta
+Chiminangos,L1,intermedia,laboral,tarde,si,lluvioso,no,alta
+Chiminangos,L1,intermedia,sabado,mediodia,no,despejado,no,baja
+Torre de Cali,L1,intermedia,domingo_festivo,madrugada,no,despejado,no,baja
+Estadio,L3,intermedia,laboral,noche,no,despejado,no,media
+Las Américas,L3,intermedia,sabado,noche,no,despejado,no,baja
+Las Américas,L3,intermedia,domingo_festivo,manana,no,lluvioso,no,baja
+Terminal Andrés Sanín,L3,terminal,domingo_festivo,mediodia,no,despejado,no,baja
+Terminal Guadalupe,L2,terminal,laboral,tarde,si,lluvioso,no,alta
+Estadio,L3,intermedia,sabado,mediodia,no,despejado,no,baja
+Estadio,L3,intermedia,laboral,madrugada,no,lluvioso,no,baja
+San Pedro,L2,intermedia,laboral,manana,si,despejado,no,media
+San Bosco,L2,intermedia,domingo_festivo,noche,no,despejado,no,baja
+Terminal Guadalupe,L2,terminal,laboral,mediodia,no,despejado,no,alta
